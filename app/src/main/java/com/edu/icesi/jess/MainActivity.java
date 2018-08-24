@@ -26,6 +26,7 @@ public Button btnMainToForm;
 
         btnMainToForm = findViewById(R.id.btn_Main);
 
+
         btnMainToForm.setOnClickListener(new View.OnClickListener() {
 
             public void onClick(View view) {
